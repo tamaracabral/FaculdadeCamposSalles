@@ -4,27 +4,26 @@
     <title>Apple</title>
 </head>
 <body>   
-<blockquote>
     <h1>Apple lança novo iMac colorido, mais fino e com chip M1</h1>
 
     
     <p>
-        <h3><strong>Novo iMac também traz câmera FaceTime 1080p, tela Retina 4,5K de 24 polegadas e teclado Magic Keyboard com Touch ID </strong></h3>
+        <strong>Novo iMac também traz câmera FaceTime 1080p, tela Retina 4,5K de 24 polegadas e teclado Magic Keyboard com Touch ID </strong>
     </p> 
 
     <p>
         Os MacBooks e o Mac Mini anunciados em 2020 já não são os únicos Macs com Apple Silicon. Nesta terça-feira
-        (20/04/2021), a <i><u>Apple</u></i> anunciou o novo <strong>iMac com chip M1</strong>. E esse não é o único atrativo: a novidade também traz
+        (20/04/2021), a <em><u>Apple</u></em> anunciou o novo <strong>iMac com chip M1</strong>. E esse não é o único atrativo: a novidade também traz
         design totalmente renovado, sete opções de cores, webcam de 1080p e um sistema de áudio que promete ser o mais
         envolvente já disponibilizado na linha.
     </p>    
 
-        <img src="http://www.edulog.com.br/ipad/iMac_1.jpg" alt="iMac" title="iMac"/>
+       <p> <img src="http://www.edulog.com.br/ipad/iMac_1.jpg" alt="iMac" title="iMac"/> </p>
 
     <h2>Câmera full HD e som com graves</h2>
 
     <p>
-        Talvez o novo design, por si só, seria suficiente para convencer alguém a comprar o novo <i><strong>iMac</strong></i>. Mas é óbvio que a Apple
+        Talvez o novo design, por si só, seria suficiente para convencer alguém a comprar o novo <em><strong>iMac</strong></em>. Mas é óbvio que a Apple
         se preocupou em incrementar os recursos do modelo. Começa pela câmera FaceTime HD, que agora traz resolução
         1080p e três microfones com qualidade de estúdio.
     </p> 
@@ -51,10 +50,10 @@
             De <s>R$ 17.590,00</s> por <strong>R$ 16.200,00</strong>
         </p>
 
-        <hr/>
+        <hr>
 
         <p>
-            <strong><h3>NOTAS:</h3></strong>
+            <strong>NOTAS:</strong>
         </p>
 
         <p>
@@ -65,6 +64,6 @@
         <p>
             (2)1 GB = 1 bilhão de bytes e 1 TB = 1 trilhão de bytes. A capacidade real após a formatação é menor
         </p>
-    </blockquote>
+    
 </body>
 </html>
