@@ -1,0 +1,331 @@
+<html>
+<head>
+        <title>Olivero Rent a Car</title>
+</head>
+<body>
+    <p><img src="http://www.edulog.com.br/rentcar/Imagens/Logo1.png"></p>
+        <a href="#">Menu 1</a>
+        <a href="#">Menu 2</a>
+        <a href="#">Menu 3</a>
+    </p>
+    
+    <p>Confira as melhores vantagens para você alugar o seu veículo na Alfa Gold em Orlando-Estados Unidos! Alugue agora os melhores carros de luxo, com os menores preços e as maiores vantagens.</p>
+
+    <h1>Mercedes-Benz GLA 250</h1>
+    <p>Diárias a partir de R$240</p>
+    <p>
+        <img src="http://www.edulog.com.br/rentcar/imagens/car_m1.jpg" alt="Mercedes-Benz GLA 250">
+    </p>
+    <p><h2>Características do veículo</h2></p>
+    <p>Passageiros: <strong>5</strong></p>
+    <p>Direção: <strong>Elétrica</strong></p>
+    <p>Vidros elétricos: <strong>Sim</strong></p>
+    <p>Airbags: <strong>3</strong></p>
+    <p>Portas: <strong>5</strong></p>
+    <p>N de malas: <strong>2-3</strong></p>
+    <p>Ar condicionado: <strong>Digital</strong></p>
+    <p>Câmbio automatico: <strong>Sequencial</strong></p>
+    <p>Freios ABS: <strong>Sim</strong></p>
+
+    <p><a href="#">Detalhes</a></p>
+
+        
+        <h1>Novo Honda Civic</h1>
+        <p>Diárias a partir de: 120,00</p>
+        <p>
+            <img src="http://www.edulog.com.br/rentcar/imagens/car_m2.jpg" alt="Honda Civic">
+        </p>
+        <h2>Caracteriasticas do veículo</h2>
+        <p>Passageiros: <strong>5</strong></p>
+        <p>Direção: <strong>Elétrica</strong><p>
+        <p>Vidros elétricos: <strong>Sim</strong></p>
+        <p>Airbags: <strong>4</strong></p>
+        <p>Portas: <strong>4</strong></p>
+        <p>N de malas: <strong>2-3</strong></p>
+        <p>Ar condicionado: <strong>Digital</strong></p>
+        <p>Câmbio automatico: <strong>6 marchas</strong></p>
+        <p>Freios ABS: <strong>Sim</strong></p>
+        
+        <p><a href="#">Detalhes</a></p>
+
+        
+        <h1>Chevrolet Camaro SS</h1>
+        <p>Diárias a partir de: R$210,00</p>
+        <p>
+            <img src="http://www.edulog.com.br/rentcar/imagens/car_m3.jpg" alt="Camaro SS">
+        </p>
+        <h2>Características do veículo</h2>
+        <p>passageiros: <strong>5</strong></p>
+        <p>Direção: <strong>Elétrica</strong></p>
+        <p>Vidros elétricos: <strong>Sim</strong></p>
+        <p>Airbags: <strong>7</strong></p>
+        <p>Portas: <strong>4</strong></p>
+        <p>N de malas: <strong>3-2</strong></p>
+        <p>Ar condicionado: <strong>Dual-zone</strong></p>
+        <p>Câmbio automatico: <strong>Sequencial</strong></p>
+        <p>Freios ABS: <strong>Sim</strong></p>
+           
+        <p><a href="#">Detalhes</a></p>
+
+
+        <h1>NMW X6</h1>
+        <p>Diárias a partir de: R$320,00</p>
+        <p>
+            <img src="http://www.edulog.com.br/rentcar/imagens/car_m4.jpg" alt="BMW">
+        </p>
+        <h2>Características do veículo</h2>
+        <p>Passageiros: <strong>5</strong></p>
+        <p>Direção: <strong>Elétrica</strong></p>
+        <p>Vidros elétricos: <strong>Sim</strong></p>
+        <p>Airbags: <strong>7</strong></p>
+        <p>N de malas: <strong>3-2</strong></p>
+        <p>Câmbio automático: <strong>9 marchas</strong></p>
+        <p>Freios ABS: <strong>Sim</strong></p>
+
+        <p><a href="#">Detalhes</a></p>
+
+        <hr>
+
+        <p><img src="http://www.edulog.com.br/rentcar/Imagens/Logo1.png"></p>
+            <a href="#">Menu 1</a>
+            <a href="#">Menu 2</a>
+            <a href="#">Menu 3</a>
+        </p>
+
+        <p><img src="http://www.edulog.com.br/rentcar/Imagens/Car1.jpg"></p>
+
+        <h1>Mercedes-Benz GLA 250: Compacto e esportivo</h1>
+        <p>Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu, velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. Nunc tincidunt ante vitae massa. Duis ante orci, molestie vitae, vehicula venenatis, tincidunt ac, pede. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Etiam commodo dui eget wisi. Donec iaculis gravida nulla. Donec quis nibh at felis congue commodo. Etiam bibendum elit eget erat.</p>
+
+        <p>In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et, dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam id dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris dictum facilisis augue. Fusce tellus. Pellentesque arcu.</p>
+
+        <h2>Vantagens Alfa Gold</h2>
+
+        <ul>
+            <li>Etiam bibendum elit eget erat</li>
+            <li>Phasellus enim erat, vestibulum vel</li>
+            <li>Mauris dictum facilisis augue</li>
+        </ul>
+
+        <h2>Endereço em Orlando</h2>
+        <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos</p>
+
+        <table>
+            <tr>
+                <td><strong>Local</strong></td>
+                <td><strong>Endereço</strong></td>
+                <td><strong>Telefone</strong></td>
+            </tr>
+            <tr>
+                <td>ORLANDO INTERNATIONAL  AIRPORT</td>
+                <td>1 Jeff Fuqua Boulevard</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>ORLANDO INTERNATIONAL AIRPORT</td>
+                <td>1 Jeff Fuqua Boulevard</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>EMBASSY SUITES HOTEL ORLANDO</td>
+                <td>8230 Jamaican Ct</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>ORLANDO DOWNTOWN</td>
+                <td>6001 East Colonial Drive</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>MAITLAND - SHERATON ORLANDO NORTH</td>
+                <td>600 North Lake Destiny Road</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+        </table>
+
+        <hr>
+
+        <p><img src="http://www.edulog.com.br/rentcar/Imagens/Logo1.png"></p>
+        <a href="#">Menu 1</a>
+        <a href="#">Menu 2</a>
+        <a href="#">Menu 3</a>
+
+        <p><img src="http://www.edulog.com.br/rentcar/Imagens/Car2.jpg"></p>
+
+        <h1>Novo Honda Civic: Mais esportivo e elegante</h1>
+
+        <p>Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu, velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. Nunc tincidunt ante vitae massa. Duis ante orci, molestie vitae, vehicula venenatis, tincidunt ac, pede. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Etiam commodo dui eget wisi. Donec iaculis gravida nulla. Donec quis nibh at felis congue commodo. Etiam bibendum elit eget erat.</p>
+
+        <p>In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et, dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam id dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris dictum facilisis augue. Fusce tellus. Pellentesque arcu.</p>
+
+        <h2>Vantagens Alfa Gold</h2>
+
+        <ul>
+            <li>Etiam bibendum elit eget erat</li>
+            <li>Phasellus enim erat, vestibulum vel</li>
+            <li>Mauris dictum facilisis augue</li>
+        </ul>
+
+        <h2>Endereço em Orlando</h2>
+
+        <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos</p>
+
+        <table>
+            <tr>
+                <td><strong>Local</strong></td>
+                <td><strong>Endereço</strong></td>
+                <td><strong>Telefone</strong></td>
+            </tr>
+            <tr>
+                <td>ORLANDO INTERNATIONAL  AIRPORT</td>
+                <td>1 Jeff Fuqua Boulevard</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>ORLANDO INTERNATIONAL  AIRPORT</td>
+                <td>1 Jeff Fuqua Boulevard</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>EMBASSY SUITES HOTEL ORLANDO</td>         
+                <td>8230 Jamaican Ct</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>ORLANDO DOWNTOWN</td>
+                <td>6001 East Colonial Drive</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>MAITLAND - SHERATON ORLANDO NORTH</td>
+                <td>600 North Lake Destiny Road</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+        </table>
+
+        <hr>
+
+        <p><img src="http://www.edulog.com.br/rentcar/Imagens/Logo1.png"></p>
+        <a href="#">Menu 1</a>
+        <a href="#">Menu 2</a>
+        <a href="#">Menu 3</a>
+
+        <p><img src="http://www.edulog.com.br/rentcar/Imagens/Car3.jpg"></p>
+
+        <h1>Chevrolet Camaro SS: Mais prazer em dirigir com estilo</h1>
+
+        <p>Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu, velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. Nunc tincidunt ante vitae massa. Duis ante orci, molestie vitae, vehicula venenatis, tincidunt ac, pede. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Etiam commodo dui eget wisi. Donec iaculis gravida nulla. Donec quis nibh at felis congue commodo. Etiam bibendum elit eget erat.</p>
+
+        <p>In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et, dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam id dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris dictum facilisis augue. Fusce tellus. Pellentesque arcu.</p>
+
+        <h2>Vantagens Alfa Gold</h2>
+
+        <ul>
+            <li>Etiam bibendum elit eget erat</li>
+            <li>Phasellus enim erat, vestibulum vel</li>
+            <li>Mauris dictum facilisis augue</li>
+        </ul>
+
+        <h2>Endereço em Orlando</h2>
+
+        <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos</p>
+
+        <table>
+            <tr>
+                <td><strong>Local</strong></td>
+                <td><strong>Endereço</strong></td>
+                <td><strong>Telefone</strong></td>
+            </tr>
+            <tr>
+                <td>ORLANDO INTERNATIONAL  AIRPORT</td>
+                <td>1 Jeff Fuqua Boulevard</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>ORLANDO INTERNATIONAL  AIRPORT</td>
+                <td>1 Jeff Fuqua Boulevard</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>EMBASSY SUITES HOTEL ORLANDO</td>         
+                <td>8230 Jamaican Ct</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>ORLANDO DOWNTOWN</td>
+                <td>6001 East Colonial Drive</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>MAITLAND - SHERATON ORLANDO NORTH</td>
+                <td>600 North Lake Destiny Road</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+        </table>
+
+        <hr>
+
+        <p><img src="http://www.edulog.com.br/rentcar/Imagens/Logo1.png"></p>
+        <a href="#">Menu 1</a>
+        <a href="#">Menu 2</a>
+        <a href="#">Menu 3</a>
+
+        <p><img src="http://www.edulog.com.br/rentcar/Imagens/Car4.jpg"></p>
+
+        <h1>BMX X6: Um carro como você nunca viu</h1>
+
+        <p>Morbi a metus. Phasellus enim erat, vestibulum vel, aliquam a, posuere eu, velit. Nullam sapien sem, ornare ac, nonummy non, lobortis a, enim. Nunc tincidunt ante vitae massa. Duis ante orci, molestie vitae, vehicula venenatis, tincidunt ac, pede. Nulla accumsan, elit sit amet varius semper, nulla mauris mollis quam, tempor suscipit diam nulla vel leo. Etiam commodo dui eget wisi. Donec iaculis gravida nulla. Donec quis nibh at felis congue commodo. Etiam bibendum elit eget erat.</p>
+
+        <p>In sem justo, commodo ut, suscipit at, pharetra vitae, orci. Duis sapien nunc, commodo et, interdum suscipit, sollicitudin et, dolor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam id dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. Mauris dictum facilisis augue. Fusce tellus. Pellentesque arcu.</p>
+
+        <h2>Vantagens Alfa Gold</h2>
+
+        <ul>
+            <li>Etiam bibendum elit eget erat</li>
+            <li>Phasellus enim erat, vestibulum vel</li>
+            <li>Mauris dictum facilisis augue</li>
+        </ul>
+
+        <h2>Endereço em Orlando</h2>
+
+        <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos</p>
+
+        <table>
+            <tr>
+                <td><strong>Local</strong></td>
+                <td><strong>Endereço</strong></td>
+                <td><strong>Telefone</strong></td>
+            </tr>
+            <tr>
+                <td>ORLANDO INTERNATIONAL  AIRPORT</td>
+                <td>1 Jeff Fuqua Boulevard</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>ORLANDO INTERNATIONAL  AIRPORT</td>
+                <td>1 Jeff Fuqua Boulevard</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>EMBASSY SUITES HOTEL ORLANDO</td>         
+                <td>8230 Jamaican Ct</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>ORLANDO DOWNTOWN</td>
+                <td>6001 East Colonial Drive</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+            <tr>
+                <td>MAITLAND - SHERATON ORLANDO NORTH</td>
+                <td>600 North Lake Destiny Road</td>
+                <td>+ 786-000-0000</td>
+            </tr>
+        </table>
+
+        <hr>
+        
+
+
+</body>
+</html>
