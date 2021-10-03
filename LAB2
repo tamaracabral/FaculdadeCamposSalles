@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title> LAB.02 Tamara Cabral </title>
+        
+        <style type="text/css">
+        
+        .{
+            margin: 0;
+            padding: 0;
+        }
+
+        #aleluia {
+      text-align: center;
+      width: 80%;
+      height: 400px;
+      margin: 50px 5% 0px 5%;
+      padding: 10px;
+      border: 1px  solid black;
+      border-left: 20px solid blue;
+      overflow: scroll;
+      border-radius: 10px;
+      box-shadow: 1px 5px 20px 10px  lightgrey;
+
+      }
+        
+        </style>
+    </head>
+
+    
+
+    <bory>
+        <div id="aleluia">
+        <h1>
+            Visão geral das tendências em tecnologia
+        </h1>
+        <p>
+            Num ano de grandes desafios, mais companhias aderiram à ideia de que toda empresa é uma empresa de tecnologia. <br>
+            Em resposta à pandemia, companhias líderes iniciaram uma nova era de transformação exponencial. <br>
+            Reconhecendo que liderança demanda foco em tecnologia, as empresas bem-sucedidas deram prioridade à inovação tecnológica.<br>
+            Estas empresas estão aprendendo a dominar a mudança e estão se posicionando para liderar o futuro.
+        </p>
+        
+
+        <img src="https://cio.com.br/wp-content/uploads/2019/05/TI-tendências.jpg">
+      </div>
+    </bory>
+</html>
